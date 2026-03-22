@@ -1,8 +1,15 @@
 <!-- ### Hi there 👋 --->
 # 💫 About Me:
-I’m a passionate and results-driven Software Engineer with a strong foundation Java, and AI technologies. 
 
-My background in Java development and cloud infrastructure enables me to provide deep technical insights, while my familiarity with AI and automation helps me drive smarter, more scalable support solutions. I'm always eager to learn, improve systems, and ensure seamless user experiences.🎉 **Fun fact:** I’m fascinated by the intersection of art and AI, especially generative models that create unique visuals.
+Hi, I'm Saumya 👋  
+
+I am a Computer Science student with a strong interest in software development and problem-solving. I enjoy building responsive and user-friendly web applications and working with technologies like Java and JavaScript to bring ideas to life.
+
+Currently, I am focused on strengthening my understanding of Data Structures and Algorithms while exploring backend development with Node.js and Spring Boot. I like learning by building projects and continuously improving my skills through practical experience.
+
+I am always eager to learn new technologies, take on challenges, and grow as a developer while contributing to meaningful and impactful projects.
+
+🎉 Fun fact: I enjoy exploring AI and how it can be used creatively to build innovative applications.
 
 
 # 🌐 Socials:
