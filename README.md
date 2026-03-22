@@ -24,8 +24,8 @@ My background in Java development and cloud infrastructure enables me to provide
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arpitsachan2062&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arpitsachan2062&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsachan2062&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=saumya1694&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saumya1694&theme=dark&hide_border=false&layout=compact)
 
 
 
