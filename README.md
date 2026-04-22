@@ -29,10 +29,9 @@ I am always eager to learn new technologies, take on challenges, and grow as a d
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saumya1694&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)<br/>
+![](https://github-readme-stats.vercel.app/api?username=saumya1694&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saumya1694&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saumya1694&theme=dark&hide_border=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saumya1694&theme=dark&hide_border=false&layout=compact&cache_seconds=86400)
 
 
 
