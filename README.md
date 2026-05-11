@@ -18,7 +18,7 @@ I am always eager to learn new technologies, take on challenges, and grow as a d
 
 # 🐍 My Contributions:
 
-![](https://raw.githubusercontent.com/saumya1694/saumya1694/output/github-contribution-grid-snake.svg)<br/>
+![](https://raw.githubusercontent.com/saumya1694/saumya1694/output/github-contribution-grid-snake.svg)
 
 # 💻 Tech Stack:
 
