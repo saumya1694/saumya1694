@@ -1,3 +1,5 @@
+<!-- ### Hi there 👋 --->
+
 # 💫 About Me:
 
 Hi, I'm Saumya 👋  
@@ -10,19 +12,13 @@ I am always eager to learn new technologies, take on challenges, and grow as a d
 
 🎉 Fun fact: I enjoy exploring AI and how it can be used creatively to build innovative applications.
 
----
-
 # 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/verma-saumya/)
 
----
-
 # 🐍 My Contributions:
 
-![](https://raw.githubusercontent.com/saumya1694/saumya1694/output/github-contribution-grid-snake.svg)
-
----
+![](https://raw.githubusercontent.com/saumya1694/saumya1694/output/github-contribution-grid-snake.svg)<br/>
 
 # 💻 Tech Stack:
 
@@ -50,44 +46,30 @@ I am always eager to learn new technologies, take on challenges, and grow as a d
 ![DBMS](https://img.shields.io/badge/DBMS-16A085?style=for-the-badge&logo=database&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-34495E?style=for-the-badge&logo=leetcode&logoColor=yellow)
 
----
-
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=saumya1694&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1)
+![](https://github-readme-stats.vercel.app/api?username=saumya1694&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1)<br/>
 
-![](https://streak-stats.demolab.com?user=saumya1694&theme=tokyonight&hide_border=false&cache_seconds=1)
+![](https://streak-stats.demolab.com?user=saumya1694&theme=dark&hide_border=false&cache_seconds=1)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saumya1694&theme=tokyonight&hide_border=false&layout=compact&cache_seconds=1)
-
----
-
-# 📈 Contribution Graph:
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=saumya1694&theme=tokyo-night)
-
----
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saumya1694&theme=dark&hide_border=false&layout=compact&cache_seconds=1)
 
 # 🔝 Top Contributed Repo:
 
-![](https://github-contributor-stats.vercel.app/api?username=saumya1694&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
+![](https://github-contributor-stats.vercel.app/api?username=saumya1694&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # 🏆 GitHub Trophies:
 
-![](https://github-profile-trophy.vercel.app/?username=saumya1694&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
----
+![](https://github-profile-trophy.vercel.app/?username=saumya1694&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # ✍️ Random Dev Quote:
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-# 👀 Profile Views:
+[![](https://visitcount.itsvg.in/api?id=saumya1694&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=saumya1694&icon=5&color=6)](https://visitcount.itsvg.in)
-
----
+<!--
+**SAUMYA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
